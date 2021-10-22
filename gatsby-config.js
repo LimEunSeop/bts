@@ -1,7 +1,8 @@
 module.exports = {
   siteMetadata: {
-    siteUrl: "https://www.yourdomain.tld",
-    title: "menu-with-video",
+    siteUrl: 'https://limeunseop.github.io/bts',
+    title: 'bts',
   },
-  plugins: ["gatsby-plugin-sass"],
-};
+  pathPrefix: '/bts',
+  plugins: ['gatsby-plugin-sass'],
+}
